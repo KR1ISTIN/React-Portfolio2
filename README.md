@@ -19,7 +19,7 @@ Bootstrap
 React Reveal
 
 ## Usage
-Click link for deployment to Heroku
+Click link for deployment to GITHUB PAGES
 <a href='https://kr1istin.github.io/React-Portfolio2/'>Link to deployed site (click me)</a>
 
 
